@@ -1,0 +1,6 @@
+openai>=3.0,<4
+chromadb>=1.5.9,<2
+pymupdf>=1.26,<2
+python-dotenv>=1.0,<2
+streamlit>=1.53,<2
+pytest>=8.0,<9

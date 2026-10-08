@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Where did SalahAldeen study and what was his degree?",
+    "answerable": true,
+    "expected_sections": ["About SalahAldeen"]
+  },
+  {
+    "question": "Has SalahAldeen worked with transformer-based language models?",
+    "answerable": true,
+    "expected_sections": ["Deep Learning and NLP Experience"]
+  },
+  {
+    "question": "How does the AI lead qualification system prioritize important customers?",
+    "answerable": true,
+    "expected_sections": ["AI Lead Qualification Multi-Agent System"]
+  },
+  {
+    "question": "What does MABIEN do and who makes the final insurance decision?",
+    "answerable": true,
+    "expected_sections": ["MABIEN - Healthcare Insurance AI"]
+  },
+  {
+    "question": "How does MABIEN reduce hallucination risk?",
+    "answerable": true,
+    "expected_sections": ["Reliability and Governance in MABIEN"]
+  },
+  {
+    "question": "Where does Kernel operate and what is its relationship with Falak Investment?",
+    "answerable": true,
+    "expected_sections": ["About Kernel"]
+  },
+  {
+    "question": "Which major organizations has Kernel worked with?",
+    "answerable": true,
+    "expected_sections": ["Clients and Industry Experience"]
+  },
+  {
+    "question": "Can Kernel help a company automate repetitive operational work?",
+    "answerable": true,
+    "expected_sections": ["Kernel Services and Solutions"]
+  },
+  {
+    "question": "What AI training programs does Kernel offer?",
+    "answerable": true,
+    "expected_sections": ["Kernel AI Training Programs"]
+  },
+  {
+    "question": "Who is Kernel's CEO and roughly how large is the team?",
+    "answerable": true,
+    "expected_sections": ["Team, Approach, and Current Focus"]
+  },
+  {
+    "question": "What is SalahAldeen's favorite football club?",
+    "answerable": false,
+    "expected_sections": []
+  },
+  {
+    "question": "What is Kernel's revenue for 2025?",
+    "answerable": false,
+    "expected_sections": []
+  }
+]

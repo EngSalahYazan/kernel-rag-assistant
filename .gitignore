@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+*.egg-info/
+
+# Secrets
+.env
+
+# Archives
+kernel-rag-assistant.zip
+*.zip
+
+# Local vector database / generated artifacts
+storage/chroma/*
+!storage/chroma/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
